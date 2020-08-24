@@ -11,7 +11,7 @@ class Config:
     BOT_TOKEN = '736646033:AAE7_TnMafvElNfw6DKxZhLAgfiU2vF2mCs' # Get it from https://t.me/BotFather
     APP_ID = '932632' # Get it from my.telegram.org/apps
     API_HASH = 'c3eab5e1a38f92d242abadc0f81e3b19' # Get it from my.telegram.org/apps
-    DATABASE_URL = '' # SQL Database URL / Heroku Postgres URL
+    DATABASE_URL = 'https://gdriveupbot1.herokuapp.com/' # SQL Database URL / Heroku Postgres URL
 
 
 class Messages:
